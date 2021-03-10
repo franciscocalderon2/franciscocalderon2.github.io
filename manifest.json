@@ -1,6 +1,6 @@
 {
-    "name": "math_problems",
-    "short_name": "math_problems",
+    "name": "camera_app",
+    "short_name": "camera_app",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
